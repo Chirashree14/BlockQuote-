@@ -1,8 +1,11 @@
 # BlockQuote-
 # 🧱 BlockQuote – A Decentralized Quote Storage Smart Contract  
+<img width="1913" height="927" alt="image" src="https://github.com/user-attachments/assets/a9800998-5fcc-47c9-a026-89d20ef16ad2" />
+
 
 ## 📜 Project Description  
-**BlockQuote** is a simple and elegant Ethereum smart contract built with Solidity.  
+**BlockQuote** 
+is a simple and elegant Ethereum smart contract built with Solidity.  
 It allows users to store, manage, and retrieve their favorite quotes directly on the blockchain — making them permanent, verifiable, and censorship-resistant.  
 
 Whether you want to create an on-chain collection of motivational quotes or a decentralized “Quote of the Day” dApp, **BlockQuote** provides the perfect foundation.  
@@ -10,7 +13,8 @@ Whether you want to create an on-chain collection of motivational quotes or a de
 ---
 
 ## 💡 What It Does  
-- Stores quotes with their text, author, and the exact timestamp when added.  
+- Stores quotes with their text, author, and the exact timestamp when added.
+- 
 - Anyone can submit a new quote using the `addQuote()` function.  
 - Users can retrieve quotes by ID using the `getQuote()` function.  
 - Emits an event `QuoteAdded` every time a new quote is stored — perfect for dApp front-end integration.  
