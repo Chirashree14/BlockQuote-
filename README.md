@@ -32,7 +32,7 @@ Whether you want to create an on-chain collection of motivational quotes or a de
 ---
 
 ## 🔗 Deployed Smart Contract Link  
-[View Contract](contract)
+[View Contract](https://etherscan.io/address/0xd9145CCE52D386f254917e481eB44e9943F39138)
 
 
 ## 🧩 Smart Contract Code  
