@@ -32,10 +32,8 @@ Whether you want to create an on-chain collection of motivational quotes or a de
 ---
 
 ## 🔗 Deployed Smart Contract Link  
-Deployed Contract: **XXX**  
-(Network, Address, or Block Explorer link to be added after deployment.)
+[View Contract](contract)
 
----
 
 ## 🧩 Smart Contract Code  
 ```solidity
